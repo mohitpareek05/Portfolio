@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Introduction</title>
+    <link rel="stylesheet" href="Untitled-1.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <ul>
+            <li><a href="#info">Information</a></li>
+            <li><a href="#education">Education</a></li>
+            <li><a href="#projects">Projects</a></li>
+        </ul>
+    </nav>
+
+    <h1 id="info">Mohit Pareek</h1>
+
+    <img width=100 src="Image.png" alt="ProfilePhoto" style="border-radius: 15px;">
+    <p><a target="_blank" href="https://github.com/mohitpareek05">Github Profile</a> </p>
+    <p>My Name is Mohit Pareek, from Sikar, Rajasthan.I am currently persuing my B.tech
+        degree in Biotechnology from NIT Jalandhar.I am interested in research on transgenic species, i want to develop
+        new crops for the help of humanity.I am deeply interested in exploring how biological systems can be harnessed
+        to solve real-world problems in healthcare, agriculture, and environmental sustainability. The rapid
+        advancements in genetic engineering, molecular biology, and bioinformatics have inspired me to contribute to
+        innovations such as disease diagnostics, vaccine development, and sustainable crop improvement. I am
+        particularly motivated by the breakthroughs made during the COVID-19 pandemic by companies like Pfizer and
+        Moderna, which demonstrated the powerful impact of biotechnology on global health. My plan is to strengthen my
+        laboratory skills, gain research experience through internships, and pursue higher studies in a specialized
+        field such as genetic engineering or biopharmaceutical development. Ultimately, I aim to work in a
+        research-driven organization where I can contribute to scientific advancements that improve quality of life and
+        promote sustainable development.</p>
+
+
+   
+    <table id="education">
+        <caption>
+            <h2>Education</h2>
+        </caption>
+        <tr>
+            <th>Class 10th Marks</th>
+            <th>Class 12th Marks</th>
+            <th>JEE MAIN Marks</th>
+        </tr>
+        <tr>
+            <td>94.00 %</td>
+            <td>82.40 %</td>
+            <td>96.1005885 %ile</td>
+        </tr>
+    </table>
+
+    <h2 id="projects">Projects</h2>
+    <ul>
+        <li>Genetic Engineering & Molecular Biology</li>
+
+        <p>Bacterial Transformation with Plasmid DNA Study gene expression using recombinant plasmids.
+
+            CRISPR-Cas9 Gene Editing (Simulation Study) Analyze gene editing techniques and ethical considerations.
+
+            DNA Barcoding of Local Plant Species Identify species using molecular markers.
+
+            PCR-Based Detection of Pathogens Detect bacteria like E. coli in water samples.</p>
+
+        <li>Microbiology Projects</li>
+
+        <p>Isolation and Identification of Soil Microbes Study antibiotic-producing bacteria.
+
+            Antimicrobial Activity of Medicinal Plant Extracts Test against common pathogens.
+
+            Biofilm Formation Study in Bacteria Analyze factors influencing biofilm growth.
+
+            Probiotic Bacteria Analysis in Dairy Products Compare different brands.</p>
+
+        <li>Agricultural Biotechnology</li>
+
+        <p>Tissue Culture of Plants Micropropagation of crops like banana or potato.
+
+            Effect of Biofertilizers on Plant Growth Compare with chemical fertilizers.
+
+            Drought Resistance Study in Crops Analyze stress-related genes.
+
+            Production of Organic Pesticides from Neem Evaluate effectiveness.</p>
+
+        <li>Medical & Pharmaceutical Biotechnology</li>
+        <p>Study of Antibiotic Resistance Patterns In local bacterial isolates.
+
+            Enzyme Production from Microorganisms Amylase or protease production.
+
+            In Vitro Anticancer Activity of Plant Compounds Literature-based experimental analysis
