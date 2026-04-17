@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mohit Pareek | Biotechnology Portfolio</title>
     <style>
-        /* --- CSS STYLES --- */
+       
         :root {
             --primary: #2c3e50;
             --accent: #27ae60;
@@ -27,7 +27,7 @@
             padding-top: 80px;
         }
 
-        /* Navbar */
+        
         .navbar {
             background-color: var(--primary);
             padding: 1rem 0;
@@ -76,7 +76,7 @@
             border-radius: 5px;
         }
 
-        /* Layout */
+        
         .content-wrapper {
             max-width: 900px;
             margin: auto;
@@ -91,7 +91,7 @@
             box-shadow: 0 4px 6px rgba(0,0,0,0.05);
         }
 
-        /* Profile Section */
+        
         .profile-header {
             display: flex;
             align-items: center;
@@ -110,7 +110,7 @@
         h1 { color: var(--primary); font-size: 2.5rem; }
         .subtitle { color: var(--accent); font-weight: bold; }
 
-        /* Table */
+       
         table {
             width: 100%;
             border-collapse: collapse;
@@ -125,7 +125,7 @@
 
         th { background-color: #f2f2f2; color: var(--primary); }
 
-        /* Project Cards */
+        
         .projects-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
